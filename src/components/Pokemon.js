@@ -10,7 +10,7 @@ class Pokemon extends React.Component {
                     {this.props.types.map(type => {
                         return (
                             <li>
-                                <p>{type}</p>
+                                <p className="type-container">{type}</p>
                             </li>
                         )
                     })

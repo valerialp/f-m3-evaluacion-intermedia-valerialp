@@ -15,5 +15,20 @@ justify-content: space-around;
 
 .card-pokemon{
   border: 1px solid black;
-  border-radius: 20px;
+  border-radius: 7px;
+  text-align: center;
+  background-color: rgb(205, 235, 255);
+}
+
+.type-container{
+  border: 1px solid black;
+  border-radius: 7px;
+  padding: 5px;
+  font-size: 12px;
+  background-color: rgb(105, 105, 245);
+}
+.name-pokemon{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+
 }
